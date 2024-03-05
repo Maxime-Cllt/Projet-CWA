@@ -1,7 +1,3 @@
-Afin de lancer le projet
-Faire `npm i` puis `npm run prepare` pour installer les dépendances.
-
-Ensuite `npm run start` puis aller sur `http://localhost:4200/`.
 
 # Cadmium - Application de Gestion des Tâches
 
@@ -67,9 +63,6 @@ s'inscrit
     <li><a href="https://github.com/BetulDSENER">Betul SENER</a></li>
 </ul>
 
-# Cadmium
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
 
 ## Development server
 
